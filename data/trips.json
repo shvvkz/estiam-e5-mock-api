@@ -1,0 +1,226 @@
+[
+  {
+    "id": "7f653789-afaa-4a9c-b11b-6e649aa422d2",
+    "title": "France Trip",
+    "destination": "Paris, France",
+    "startDate": "2025-05-10",
+    "endDate": "2025-05-17",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/paris.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/paris.jpeg"
+    ],
+    "location": {
+      "lat": 48.8588897,
+      "lng": 2.320041
+    }
+  },
+  {
+    "id": "36741406-0fe8-4d0b-9b1e-f948abc27b05",
+    "title": "Japan Trip",
+    "destination": "Kyoto, Japan",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-10",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991060476-9b3b72f0-010a-4198-a06b-5873f0bdb0d9.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991060476-9b3b72f0-010a-4198-a06b-5873f0bdb0d9.jpeg"
+    ],
+    "location": {
+      "lat": 35.0115754,
+      "lng": 135.7681441
+    }
+  },
+  {
+    "id": "e1f0d5a4-82b6-4a6b-9e34-8f0dcd5a1e9c",
+    "title": "Italy Trip",
+    "destination": "Florence, Italy",
+    "startDate": "2025-06-25",
+    "endDate": "2025-07-02",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991651475-cb92a661-19aa-42fc-9056-11cf2ef4efe9.webp",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991651475-cb92a661-19aa-42fc-9056-11cf2ef4efe9.webp"
+    ],
+    "location": {
+      "lat": 43.7697955,
+      "lng": 11.2556404
+    }
+  },
+  {
+    "id": "a3e2f22a-9d93-4bb2-9fd1-0b12bfa8b8e7",
+    "title": "Greece Trip",
+    "destination": "Santorini, Greece",
+    "startDate": "2025-07-15",
+    "endDate": "2025-07-22",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991779956-130e3214-f9b0-4aee-bca8-78075ad799e3.avif",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991779956-130e3214-f9b0-4aee-bca8-78075ad799e3.avif"
+    ],
+    "location": {
+      "lat": 36.3931562,
+      "lng": 25.4615092
+    }
+  },
+  {
+    "id": "7a8b4b65-fb71-4bde-8cb2-35f8e69c7a2a",
+    "title": "Czech Republic Trip",
+    "destination": "Prague, Czech Republic",
+    "startDate": "2025-08-10",
+    "endDate": "2025-08-16",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991878623-5f386314-d592-4efd-b065-52c5158a5c5c.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991878623-5f386314-d592-4efd-b065-52c5158a5c5c.jpeg"
+    ],
+    "location": {
+      "lat": 50.0874654,
+      "lng": 14.4212535
+    }
+  },
+  {
+    "id": "5a2b8d3c-7f6e-4c4b-9c0e-29b4e78f63cb",
+    "title": "Portugal Trip",
+    "destination": "Lisbon, Portugal",
+    "startDate": "2025-09-01",
+    "endDate": "2025-09-07",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991887100-308837b8-2224-47b6-b25e-28e8ee6ab6b8.avif",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991887100-308837b8-2224-47b6-b25e-28e8ee6ab6b8.avif"
+    ],
+    "location": {
+      "lat": 38.7077507,
+      "lng": -9.1365919
+    }
+  },
+  {
+    "id": "2b3f7c98-44a0-4c2e-92db-63d9bdfcc87c",
+    "title": "South Africa Trip",
+    "destination": "Cape Town, South Africa",
+    "startDate": "2025-10-05",
+    "endDate": "2025-10-13",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991894320-328c7952-de5d-4f32-a25d-8ac013fb6bbe.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991894320-328c7952-de5d-4f32-a25d-8ac013fb6bbe.jpeg"
+    ],
+    "location": {
+      "lat": -33.928992,
+      "lng": 18.417396
+    }
+  },
+  {
+    "id": "1cbe8c66-27c2-45b6-9e59-6d6dfc10c9c5",
+    "title": "Canada Trip",
+    "destination": "Vancouver, Canada",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-10",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991901124-7489f0bd-f2a5-4222-82f9-c0914b76e54a.webp",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991901124-7489f0bd-f2a5-4222-82f9-c0914b76e54a.webp"
+    ],
+    "location": {
+      "lat": 49.2608724,
+      "lng": -123.113952
+    }
+  },
+  {
+    "id": "f6d28a18-2a6b-4c59-8db1-f8c84d5e4c01",
+    "title": "New Zealand Trip",
+    "destination": "Queenstown, New Zealand",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-13",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991907786-937ebd78-f3bc-4ee1-a4e8-3a7d87aa8464.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991907786-937ebd78-f3bc-4ee1-a4e8-3a7d87aa8464.jpeg"
+    ],
+    "location": {
+      "lat": -45.0311622,
+      "lng": 168.662643
+    }
+  },
+  {
+    "id": "89f61b84-86f4-4d68-baf2-d7b8a9ff7c12",
+    "title": "Morocco Trip",
+    "destination": "Marrakech, Morocco",
+    "startDate": "2026-01-08",
+    "endDate": "2026-01-14",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991920998-db431952-7dfd-4aaa-8867-ff89a2536e92.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991920998-db431952-7dfd-4aaa-8867-ff89a2536e92.jpeg"
+    ],
+    "location": {
+      "lat": 31.6258257,
+      "lng": -7.9891608
+    }
+  },
+  {
+    "id": "9df39bde-6c92-4c89-aeb7-66bfc4f3a88b",
+    "title": "Brazil Trip",
+    "destination": "Rio de Janeiro, Brazil",
+    "startDate": "2026-02-02",
+    "endDate": "2026-02-10",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991927527-341072a8-a7df-4d9f-b0d4-62992d0fb97d.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991927527-341072a8-a7df-4d9f-b0d4-62992d0fb97d.jpeg"
+    ],
+    "location": {
+      "lat": -22.9110137,
+      "lng": -43.2093727
+    }
+  },
+  {
+    "id": "4b6a45e4-0c91-4a9d-8b4b-9aeb42d61f92",
+    "title": "South Korea Trip",
+    "destination": "Seoul, South Korea",
+    "startDate": "2026-02-25",
+    "endDate": "2026-03-03",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991934768-6fd473f6-7820-4416-a358-f8a980d06d5d.webp",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991934768-6fd473f6-7820-4416-a358-f8a980d06d5d.webp"
+    ],
+    "location": {
+      "lat": 37.5666791,
+      "lng": 126.9782914
+    }
+  },
+  {
+    "id": "d1e33a77-3e1f-4f58-9f5c-bb5f34b29f6b",
+    "title": "Indonesia Trip",
+    "destination": "Bali, Indonesia",
+    "startDate": "2026-03-15",
+    "endDate": "2026-03-22",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991942525-5643370c-9047-450a-a680-a4436fea2991.webp",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991942525-5643370c-9047-450a-a680-a4436fea2991.webp"
+    ],
+    "location": {
+      "lat": -8.4095178,
+      "lng": 115.188916
+    }
+  },
+  {
+    "id": "be72dff4-27d6-4bb8-9a55-f4bffb35f85a",
+    "title": "Peru Trip",
+    "destination": "Cusco, Peru",
+    "startDate": "2026-04-05",
+    "endDate": "2026-04-12",
+    "image": "https://estiam-e5-mock-api.onrender.com/uploads/1765991949655-ecfcbaad-a247-4c06-89c5-1a589dc79328.jpeg",
+    "description": "",
+    "photos": [
+      "https://estiam-e5-mock-api.onrender.com/uploads/1765991949655-ecfcbaad-a247-4c06-89c5-1a589dc79328.jpeg"
+    ],
+    "location": {
+      "lat": -13.53195,
+      "lng": -71.967463
+    }
+  }
+]
